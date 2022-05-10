@@ -1,3 +1,4 @@
+/*<<<<<<< HEAD*/
 img{
     height: 50px;
     width: 50px;
@@ -12,3 +13,12 @@ h2{
     margin:1em 1em auto ;
     width:100%
 }
+
+/*.circle-with-text {*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    border-radius: 100%;*/
+/*    text-align: center;*/
+/*    display: flex;*/
+/*}*/
+/*>>>>>>> 1480544730c69180e9b83d9647804ea39f24fddc*/
