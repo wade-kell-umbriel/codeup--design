@@ -1,0 +1,14 @@
+img{
+    height: 50px;
+    width: 50px;
+}
+h1{
+    font-weight: bolder;
+    margin:.5em .5em auto ;
+    width:100%
+}
+h2{
+    font-weight: bolder;
+    margin:1em 1em auto ;
+    width:100%
+}
