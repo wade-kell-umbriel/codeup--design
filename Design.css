@@ -2,6 +2,7 @@
 
 body{
     background-color: #f0f0f0;
+    font-family: 'Anton', sans-serif;
 }
 img{
     height: 50px;
@@ -19,13 +20,27 @@ h2{
 }
 
 .circle-with-text {
-    height: 175px;
-    width:175px;
+    height: 85px;
+    width:85px;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: #e6563b;
-    border: white dotted 30px;
+    border: white solid 5px;
     color:white;
+
+
+
+
+
+}
+#orange{
+    background-color: #eb9d3a;
+}
+#green{
+    background-color: #7cb06c;
+}
+#teal{
+    background-color: #00aba9;
 }
 /*>>>>>>> 1480544730c69180e9b83d9647804ea39f24fddc*/
