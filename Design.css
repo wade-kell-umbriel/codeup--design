@@ -1,4 +1,8 @@
 /*<<<<<<< HEAD*/
+
+body{
+    background-color: #f0f0f0;
+}
 img{
     height: 50px;
     width: 50px;
@@ -14,11 +18,14 @@ h2{
     width:100%
 }
 
-/*.circle-with-text {*/
-/*    justify-content: center;*/
-/*    align-items: center;*/
-/*    border-radius: 100%;*/
-/*    text-align: center;*/
-/*    display: flex;*/
-/*}*/
+.circle-with-text {
+    height: 175px;
+    width:175px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e6563b;
+    border: white dotted 30px;
+    color:white;
+}
 /*>>>>>>> 1480544730c69180e9b83d9647804ea39f24fddc*/
