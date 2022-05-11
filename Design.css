@@ -5,7 +5,7 @@ body {
     font-family: 'Anton', sans-serif;
 }
 
-img {
+#logo {
     height: 50px;
     width: 50px;
 }
@@ -59,13 +59,13 @@ h2 {
 
 
 }
-#smallo{
+.smallo{
     background-color: #eb9d3a;
 }
-#smallg{
+.smallg{
     background-color: #7cb06c;
 }
-#smallt{
+.smallt{
     background-color: #00aba9;
 }
 
